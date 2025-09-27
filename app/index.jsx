@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Quiz App</Text>
-      <QuizCard />
+      <QuizCard/>
     </View>
   )
 }
